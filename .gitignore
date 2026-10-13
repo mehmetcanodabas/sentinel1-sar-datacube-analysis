@@ -1,0 +1,40 @@
+# Ignore everything by default
+*
+
+# Allow source, notebooks, and docs
+!*.py
+!*.ipynb
+!*.md
+!*.pdf
+!*.jpg
+!*.jpeg
+!*.png
+!pixi.toml
+!pixi.lock
+!.gitignore
+
+# Allow documentation and figures
+!docs/
+!docs/results/
+!figures/
+
+# Ignore generated data
+outputs/
+*.zarr/
+*.tif
+*.tiff
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local environments
+.pixi/
+.venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
