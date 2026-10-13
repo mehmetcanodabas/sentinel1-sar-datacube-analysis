@@ -18,10 +18,6 @@ The workflow includes VV/VH backscatter time-series analysis, seasonal visualiza
 
 [SAR satellite overlay](docs/results/vv_sar_satellite_overlay.png): Summer VV backscatter GeoTIFF visualized over satellite imagery in QGIS.
 
-### Keywords
+**Keywords:** Python, STAC, Microsoft Planetary Computer, Stackstac, xarray, Dask, Zarr, Rasterio, and QGIS.
 
-Python, STAC, Microsoft Planetary Computer, Stackstac, xarray, Dask, Zarr, Rasterio, and QGIS.
-
-### Acknowledgment
-
-Inspired by [Cloud Open-Source Geospatial Data Cube Workflows](https://github.com/e-marshall/cloud-open-source-geospatial-data-cube-workflows).
+**Acknowledgment:** Inspired by [Cloud Open-Source Geospatial Data Cube Workflows](https://github.com/e-marshall/cloud-open-source-geospatial-data-cube-workflows).
