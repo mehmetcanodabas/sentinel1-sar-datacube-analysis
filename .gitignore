@@ -12,6 +12,7 @@
 !pixi.toml
 !pixi.lock
 !.gitignore
+!.gitattributes
 
 # Allow documentation and figures
 !docs/
