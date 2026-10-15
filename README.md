@@ -1,6 +1,6 @@
 ## sentinel1-sar-datacube-analysis
 
-Implementation of a Cloud-Based Sentinel-1 SAR Data Cube for Time-Series and Seasonal Backscatter Analysis.
+Implementation of a Cloud-Based Sentinel-1 SAR Data Cube for Time-Series and Seasonal Backscatter Analysis
 
 This project demonstrates cloud-based Sentinel-1 SAR data processing using STAC, Dask, xarray, and Zarr. Sentinel-1 RTC imagery is retrieved from Microsoft Planetary Computer, validated using acquisition metadata, and organized into a multi-temporal data cube.
 
